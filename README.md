@@ -13,4 +13,5 @@ Analyze the response and the Output.
 The aim is to understand how to request help from AI tools for tasks like writing Python code, integrating with APIs, comparing outputs, and generating actionable insights.
 
 
-Result: 
+Result: [ai_tools_integration_report.pdf](https://github.com/user-attachments/files/28515669/ai_tools_integration_report.pdf)
+
